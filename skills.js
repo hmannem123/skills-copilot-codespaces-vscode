@@ -1,3 +1,3 @@
 function calculatenumbers(var1, var2) {
-  console.log
+  console.log(var1 + var2);
 }
